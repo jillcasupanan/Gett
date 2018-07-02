@@ -24,3 +24,6 @@ x_train, y_train, x_test, y_test, subject_train and subject_test contains the da
 x_data, y_data and subject_data merge the previous datasets to further analysis.
 features contains the correct names for the x_data dataset, which are applied to the column names that are stored
 
+## Units
+1. Units for the acceleration signal from the smartphone's accelerometer is in standard gravity which expresses by the letter "g".
+2. Units for angular velocity vector is in radians per second which is measured by the gyroscope.
