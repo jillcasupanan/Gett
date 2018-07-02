@@ -21,7 +21,9 @@ Making and writing the second tidy data set was done here.
 
 ## About the variables
 x_train, y_train, x_test, y_test, subject_train and subject_test contains the data from the downloaded files.
+
 x_data, y_data and subject_data merge the previous datasets to further analysis.
+
 features contains the correct names for the x_data dataset, which are applied to the column names that are stored
 
 ## Units
