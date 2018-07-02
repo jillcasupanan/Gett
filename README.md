@@ -7,7 +7,7 @@ run_analysis.R contains the code to perform the analysis described in the Peer-g
 
 CodeBook.md describes the use of all the variables, data, and the transformation that was performed to clean the data.
 
-secondTidySet.txt is the output of Item 1 to Item 5, which was also uploaded in the course project. 
+secondTidySet.txt is the output of Item 5, which was also uploaded in the course project. 
 
 
 
